@@ -4,5 +4,4 @@ the anode by a constant electric field.We simulate the tubelight over a given
 number of turns(timesteps) starting with no electrons initially. The electrons
 can ionize atoms if they have a velocity greater more than some given threshold
 velocity, leading to an emission of a photon,but this a probabilistic process.We
-plot various aspects of this simulated tubelight like electron densities and inten-
-sities.
+plot various aspects of this simulated tubelight like electron densities and intensities.
